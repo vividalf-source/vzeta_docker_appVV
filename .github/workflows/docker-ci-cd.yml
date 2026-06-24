@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/vzeta-app:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/vzeta_docker_appvv:latest
